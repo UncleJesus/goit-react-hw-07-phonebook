@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Rosie Simpson",
+      "number": "0939492809",
+      "id": 3
+    },
+    {
+      "name": "Garry Potter",
+      "number": "0939492809",
+      "id": 6
+    },
+    {
+      "name": "Vika Nazaruk",
+      "number": "0939492809",
+      "id": 7
+    },
+    {
+      "name": "Julia Davigora",
+      "number": "0939492809",
+      "id": 8
+    }
+  ]
+}
