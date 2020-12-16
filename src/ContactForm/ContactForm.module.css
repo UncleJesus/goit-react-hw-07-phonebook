@@ -1,0 +1,23 @@
+.inputTitle {
+  padding-right: 5px;
+  margin-left: 20px;
+}
+
+.input {
+  height: 20px;
+  margin-left: 10px;
+}
+
+.input:hover,
+.input:focus {
+  border: 3px solid;
+}
+
+.btn {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 3px;
+  color: black;
+  margin-left: 10px;
+}

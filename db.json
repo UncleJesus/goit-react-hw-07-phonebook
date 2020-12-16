@@ -1,39 +1,29 @@
 {
   "contacts": [
     {
-      "name": "grg",
-      "number": "314313",
-      "id": "25bbb5"
+      "name": "Тимофей",
+      "number": "433-02-90",
+      "id": 2
     },
     {
-      "name": "hrjyj",
-      "number": "3542",
-      "id": "b7652f"
+      "name": "Kattie Roberts",
+      "number": "242-34-00",
+      "id": 4
     },
     {
-      "name": "gtegr",
-      "number": "5634",
-      "id": "b6e1a1"
+      "name": "Slim Shady",
+      "number": "123-45-69",
+      "id": 5
     },
     {
-      "name": "btb",
-      "number": "4243",
-      "id": "ee7c8a"
+      "name": "Galina Khyzhynska",
+      "number": "433-02-90",
+      "id": 7
     },
     {
-      "name": "ynr",
-      "number": "234",
-      "id": "9db286"
-    },
-    {
-      "name": "t",
-      "number": "2",
-      "id": "997519"
-    },
-    {
-      "name": "thrge",
-      "number": "1312",
-      "id": "e8630c"
+      "name": "Rosie Simpson",
+      "number": "433-02-90",
+      "id": 8
     }
   ]
 }
