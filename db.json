@@ -1,29 +1,9 @@
 {
   "contacts": [
     {
-      "name": "Тимофей",
-      "number": "433-02-90",
-      "id": 2
-    },
-    {
-      "name": "Kattie Roberts",
-      "number": "242-34-00",
-      "id": 4
-    },
-    {
-      "name": "Slim Shady",
-      "number": "123-45-69",
-      "id": 5
-    },
-    {
-      "name": "Galina Khyzhynska",
-      "number": "433-02-90",
-      "id": 7
-    },
-    {
-      "name": "Rosie Simpson",
-      "number": "433-02-90",
-      "id": 8
+      "name": "Дмитрий",
+      "number": "3821949124",
+      "id": 1
     }
   ]
 }
