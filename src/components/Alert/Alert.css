@@ -1,0 +1,13 @@
+.title {
+  padding-right: 5px;
+  margin-left: 20px;
+}
+.btn {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 3px;
+  color: black;
+  margin-left: 10px;
+  align-self: center;
+}
