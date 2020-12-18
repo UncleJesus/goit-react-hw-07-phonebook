@@ -1,6 +1,7 @@
 .inputTitle {
   padding-right: 5px;
   margin-left: 30px;
+  font-size: x-large;
 }
 
 input {
@@ -15,4 +16,7 @@ input {
   border-radius: 3px;
   color: black;
   margin-left: 10px;
+}
+.btn:hover {
+  background-color: gold;
 }
